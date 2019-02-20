@@ -12,8 +12,11 @@
     "no-undef": "warn",
     "no-unused-vars": ["error", { "vars": "local", "args": "after-used", "ignoreRestSiblings": false }],
     "no-duplicate-imports": "error",
-    "max-len": ["warn", 120],
     "id-match": ["warn", "^[a-zA-Z0-9_-]*$"],
+    "no-console": "off",
+    "compat/compat": "off",
+    "no-plusplus": "off",
+    "no-const-assign": "error",
     "prettier/prettier": "warn",
     "prefer-const": [
       1,
@@ -21,9 +24,7 @@
         "destructuring": "any",
         "ignoreReadBeforeAssign": true
       }
-    ],
-    "no-const-assign": "error",
-    "compat/compat": "warn"
+    ]
   },
   "env": {
     "browser": true,
