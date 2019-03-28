@@ -1,0 +1,11 @@
+{
+  "name": "kata-generation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "olegbilyk <oleg.bilyk.pro@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node index.js"
+  }
+}
