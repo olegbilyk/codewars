@@ -1,6 +1,6 @@
 # Сodewars
 
-##### Solutions [Codewars](https://www.codewars.com) katas
+### Solutions [Codewars](https://www.codewars.com) katas
 
 Codewars is a community of developers, who are called Code Warriors (or just warriors), that train on improving their development skills. Think of it like a coding dojo - where developers train with each other and help each other get better through practice.
 
@@ -8,6 +8,22 @@ Codewars is a community of developers, who are called Code Warriors (or just war
 
 - Kata: is an algorithm you have to solve in any programming language you desire
 - Kyu: is a digit that determines kata difficulty level as well as the user rank on the platform
+
+##### Repository Structure
+
+There's a folder for each kata nested in its own kyu
+
+```ascii
+├── 6-kyu/
+│   ├── Create iterator.js
+│   └── ...
+│
+├── 4-kyu/
+│   ├── Adding Big Numbers.js
+│   └── ...
+│
+└── ...
+```
 
 #### Installation
 
