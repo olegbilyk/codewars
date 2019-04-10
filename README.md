@@ -47,7 +47,7 @@ npm run createKata [kataId] [language]
 yarn run createKata [kataId] [language]
 ```
 
-**kataId** - https://www.codewars.com/kata/**create-iterator**/javascript
+**kataId** - `https://www.codewars.com/kata/`**create-iterator**`/javascript`
 
 **language:** - should be _lowercase_
 
